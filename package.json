@@ -1,0 +1,23 @@
+{
+	"name": "auto-block-recovery",
+	"version": "0.1.0",
+	"description": "This plugin automatically attempts block recovery.",
+	"author": "Tomoki Shimomura",
+	"license": "GPL-2.0-or-later",
+	"main": "build/index.js",
+	"scripts": {
+		"build": "wp-scripts build",
+		"format": "wp-scripts format",
+		"lint:js": "wp-scripts lint-js",
+		"packages-update": "wp-scripts packages-update",
+		"plugin-zip": "wp-scripts plugin-zip",
+		"start": "wp-scripts start",
+		"env": "wp-env",
+		"prepare": "husky install"
+	},
+	"devDependencies": {
+		"@wordpress/env": "^5.2.0",
+		"@wordpress/scripts": "^24.0.0",
+		"husky": "^8.0.1"
+	}
+}
