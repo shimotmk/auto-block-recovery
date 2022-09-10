@@ -2,6 +2,7 @@
 /.editorconfig
 /.git
 /.github
+/.husky
 /.gitignore
 /.wordpress-org
 /.wp-env.json
