@@ -1,0 +1,14 @@
+/.distignore
+/.editorconfig
+/.git
+/.github
+/.gitignore
+/.wordpress-org
+/.wp-env.json
+/.wp-env.override.json
+/node_modules
+package-lock.json
+package.json
+/sample-data
+/src
+README.md
