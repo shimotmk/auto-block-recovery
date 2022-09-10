@@ -9,7 +9,7 @@ License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-This plugin automatically attempts block recovery.
+This plugin will automatically attempt to recover the block editor when it is loaded.
 It saves you the trouble of clicking the "Attempt Block Recovery" button.
 
 [The source code of this plugin is below.](https://github.com/shimotmk/auto-block-recovery)
