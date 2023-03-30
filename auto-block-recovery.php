@@ -4,8 +4,8 @@
  * Description:       This plugin automatically attempts block recovery.
  * Requires at least: 6.0
  * Requires PHP:      7.4
- * Version:           0.1.1
- * Stable tag:        0.1.1
+ * Version:           0.1.2
+ * Stable tag:        0.1.2
  * Author:            Tomoki Shimomura
  * Author URI:        https://github.com/shimotmk
  * License:           GPL-2.0-or-later
