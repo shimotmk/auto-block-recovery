@@ -1,6 +1,6 @@
 {
 	"name": "auto-block-recovery",
-	"version": "0.1.6",
+	"version": "0.1.8",
 	"description": "This plugin automatically attempts block recovery.",
 	"author": "Tomoki Shimomura",
 	"license": "GPL-2.0-or-later",
